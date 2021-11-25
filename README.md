@@ -1,5 +1,5 @@
 # Breast_Cancer_Wisconsin
-Análise de dados de cancer de mama.
+Análise de dados de cancer de mama (Diagnóstico).
 
 ## Integrantes:
 - João Gabriel Valentim Rocha
