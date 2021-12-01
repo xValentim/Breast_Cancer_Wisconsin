@@ -41,7 +41,30 @@ Neste trabalho, apresentamos uma revisão das abordagens recentes de ML empregad
 
 - [Nuclear feature extraction for breast tumor diagnosis]()
 
-- [Mãos à Obra: Aprendizado de Máquina com scikit-Learn, Keras e TensorFlow. Aurélien Géron]()
+- [Mãos à Obra: Aprendizado de Máquina com scikit-Learn, Keras e TensorFlow. Aurélien Géron](https://github.com/ageron/handson-ml2)
+
+- [Scikit Learn biblioteca](https://scikit-learn.org/stable/index.html)
+
+- W.H. Wolberg, W.N. Street, and O.L. Mangasarian. 
+	Machine learning techniques to diagnose breast cancer from
+	fine-needle aspirates.  
+	Cancer Letters 77 (1994) 163-171.
+
+- W.H. Wolberg, W.N. Street, and O.L. Mangasarian. 
+	Image analysis and machine learning applied to breast cancer
+	diagnosis and prognosis.  
+	Analytical and Quantitative Cytology and Histology, Vol. 17
+	No. 2, pages 77-87, April 1995. 
+
+- W.H. Wolberg, W.N. Street, D.M. Heisey, and O.L. Mangasarian. 
+	Computerized breast cancer diagnosis and prognosis from fine
+	needle aspirates.  
+	Archives of Surgery 1995;130:511-516.
+
+- W.H. Wolberg, W.N. Street, D.M. Heisey, and O.L. Mangasarian. 
+	Computer-derived nuclear features distinguish malignant from
+	benign breast cytology.  
+	Human Pathology, 26:792--796, 1995.
 
 ## Tecnologias usadas nesse projeto
 
